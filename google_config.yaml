@@ -1,0 +1,10 @@
+path: '/content/gdrive/My Drive/building/data' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+nc : 2
+
+# Classes
+names:
+  0: Hat
+  1: Jacket

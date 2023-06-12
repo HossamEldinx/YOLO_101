@@ -1,0 +1,14 @@
+/cpu_results
+/runs
+/simple_images
+/data/images/train/*
+/data/images/val/*
+/data/labels/train/*
+/data/labels/train.cache
+/data/classes.txt
+
+yolov8m.pt
+yolov8n.pt
+
+googlebest.pt
+cpu_best.pt
